@@ -1,3 +1,3 @@
 # Github-Collaborate
 
-Ani - Use link to be added: https://github.com/arshinx/Github-Collaborate/invitations
+Use link to check if you are added: https://github.com/arshinx/Github-Collaborate/invitations
